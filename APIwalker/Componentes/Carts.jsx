@@ -78,6 +78,7 @@ const Carts = ({ Opciones, datos }) => {
                     </div>
                 )
             default:
+                set
                 return (
                     <>
                         <h1 className='text-center mt-3 text-danger'>Estos no son los droides que está buscando</h1>

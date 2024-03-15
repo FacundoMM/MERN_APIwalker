@@ -22,7 +22,7 @@ const Luke = () => {
         console.log('Error', error)
         setopciones('')
       });
-
+    setInputs('')
   }
 
   return (
